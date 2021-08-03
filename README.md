@@ -1,0 +1,35 @@
+## Oiie! Eu sou a Laila Zappiello
+
+- 👀 Estou interessada em novas tecnologias
+- 📖 Atualmente estou estudando JAVA para criar jogos
+
+
+
+<div>
+  <a href="https://github.com/zallih">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zallih&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zallih&layout=compact&langs_count=7&theme=cobalt"/>
+</div>
+
+<div style="display: inline_block"><br>
+
+  <img align="center" alt="zallih-JAVA" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="zallih-PHP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
+  <img align="center" alt="zallih-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="zalli-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="zallih-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  
+  <img align="right" alt="zallih" width="150" src="https://media.discordapp.net/attachments/783761333358166056/872241666621325392/b627a297b5bb4317c8d4b5380d4c7687.gif">
+</div>
+
+##
+
+<div>
+
+  <a href="https://www.instagram.com/laila_zappiello/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/laila-zappiello-8a6aa91b8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.facebook.com/laila.zappiello.5/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
+
+
+</div>
+
