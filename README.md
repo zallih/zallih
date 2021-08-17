@@ -19,7 +19,7 @@
   <img align="center" alt="zalli-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="zallih-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   
-  <br>
+  <br><br>
   
   <img align="right" alt="zallih" width="150" src="https://media.discordapp.net/attachments/783761333358166056/872618413040730133/WhatsApp_Image_2021-08-04_at_19.42.37.jpeg?width=370&height=370">
 </div>
