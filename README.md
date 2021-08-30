@@ -1,7 +1,16 @@
 ## Oiie! Eu sou a Laila Zappiello
 
-- 👀 Estou interessada em novas tecnologias
+
+
+<div style="display: inline_block"><br>
+<img align="right" alt="zallih" width="140" src="https://media.discordapp.net/attachments/783761333358166056/872618413040730133/WhatsApp_Image_2021-08-04_at_19.42.37.jpeg?width=370&height=370">
+- 👀 Estou interessada em novas tecnologias <br>
 - 📖 Atualmente estou estudando JAVA para criar jogos
+  
+  
+</div>
+
+
 
 
 
@@ -9,10 +18,6 @@
   <a href="https://github.com/zallih">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=zallih&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zallih&layout=compact&langs_count=7&theme=cobalt"/>
-    
-  
-    
-  <img align="right" alt="zallih" width="140" src="https://media.discordapp.net/attachments/783761333358166056/872618413040730133/WhatsApp_Image_2021-08-04_at_19.42.37.jpeg?width=370&height=370">
 </div>
 
 <div style="display: inline_block"><br>
