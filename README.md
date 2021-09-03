@@ -7,7 +7,7 @@
 - 👀 Estou interessada em novas tecnologias <br>
 - 📖 Atualmente estou estudando JAVA para criar jogos
 - 🎓 Estudando na <a href="https://cursos.dankicode.com/">Danki.Code</a> e na <a href="https://b7web.com.br/">B7Web</a>  
-- <img width="35" alt="QuebraDeLinha" src="https://cdn.discordapp.com/attachments/882354770709479427/883423269733150760/52be0ee053f423e367b428d7c3c83520.png"> INFP - Mediadora
+- <img width="25" alt="QuebraDeLinha" src="https://cdn.discordapp.com/attachments/882354770709479427/883423269733150760/52be0ee053f423e367b428d7c3c83520.png"> INFP - Mediadora
 </div>
 
 <br><br>
