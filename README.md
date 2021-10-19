@@ -9,24 +9,26 @@
 - <img width="25" alt="QuebraDeLinha" src="https://cdn.discordapp.com/attachments/882354770709479427/883423269733150760/52be0ee053f423e367b428d7c3c83520.png"> INFP - Mediadora
 </div>
 
-<br><br>
+<br><br><br><br>
 
 <div>
   <a href ="https://github.com/zallih">
-  <img height="148em" src="https://github-readme-stats.vercel.app/api?username=zallih&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="148em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zallih&layout=compact&langs_count=7&theme=cobalt"/>
+    <p align="middle">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zallih&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zallih&layout=compact&langs_count=7&theme=tokyonight"/>
+      <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=zallih&theme=tokyonight&date_format=j%20M%5B%20Y%5D"/>
+     </p>
   </a>
 </div>
 
 
 <p align="middle">
   <img width="185" alt="QuebraDeLinha" src="https://media.discordapp.net/attachments/783761333358166056/875852044928425984/divider-2461548_640.png">
-  </p>
+</p>
 
 
 <div>
     <img align="right" alt="zallih" width="250" src="https://cdn.discordapp.com/attachments/882354770709479427/885547375156944906/my-octocat-1631200526625.png">
-
   <h3> 💜 Skills</h3>
   <a href="https://github.com/zallih">
   <img align="center" alt="zallih-JAVA" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
