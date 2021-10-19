@@ -9,7 +9,7 @@
 - <img width="25" alt="QuebraDeLinha" src="https://cdn.discordapp.com/attachments/882354770709479427/883423269733150760/52be0ee053f423e367b428d7c3c83520.png"> INFP - Mediadora
 </div>
 
-<br><br><br><br>
+<br><br>
 
 <div>
   <a href ="https://github.com/zallih">
