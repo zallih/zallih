@@ -4,7 +4,7 @@
 <img align="right" alt="zallih" width="135" src="https://media.discordapp.net/attachments/783761333358166056/872618413040730133/WhatsApp_Image_2021-08-04_at_19.42.37.jpeg?width=370&height=370">
   
 - 💻 Me Chamo Laila Zappiello e tenho 16 anos <br>
-- 👩🏽‍💻 Atualmente estou estudando JAVA para criar jogos <br>
+- 👩🏽‍💻 Atualmente estou estudando criação de jogos <br>
 - 📖 Estudanto na Etec Presidente Vargas cursando Eletrônica  
 - 🎓 Estudando na <a href="https://cursos.dankicode.com/">Danki.Code</a> e na <a href="https://b7web.com.br/">B7Web</a>  
 - <img width="25" alt="QuebraDeLinha" src="https://cdn.discordapp.com/attachments/882354770709479427/883423269733150760/52be0ee053f423e367b428d7c3c83520.png"> INFP - Mediadora
