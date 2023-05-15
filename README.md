@@ -37,6 +37,8 @@
   <img align="center" alt="zallih-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="zalli-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="zallih-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
+    <img align="center" alt="zallih-JAVA" height="40" width="40" src="https://coal.gamemaker.io/sites/5d75794b3c84c70006700381/theme/images/og/thumbnail_gm_logo.png?1677843242">
+    <img align="center" alt="zallih-JAVA" height="40" width="40" src="https://companieslogo.com/img/orig/U-ea48bc1d.png?t=1634728034">
     </a>
 <br><br>
 <h3>💜 Redes Sociais</h3>
