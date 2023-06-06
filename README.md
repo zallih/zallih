@@ -29,7 +29,7 @@
 
 
 <div>
-    <img align="right" alt="zallih" width="250" src="https://cdn.discordapp.com/attachments/882354770709479427/885547375156944906/my-octocat-1631200526625.png">
+    <img align="right" alt="zallih" width="250" src="https://cdn.discordapp.com/attachments/1109120423297294356/1115676185888817182/octocat-1686068325751.png">
   <h3> 💜 Skills</h3>
   <a href="https://github.com/zallih">
   <img align="center" alt="zallih-JAVA" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
