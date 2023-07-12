@@ -47,7 +47,10 @@
   <a href="https://www.instagram.com/laila_zappiello/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="blank"></a>
   <a href="https://www.facebook.com/laila.zappiello.5/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="blank"></a> 
   <a href="https://www.linkedin.com/in/laila-zappiello/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+
+<br><br>
+ <h3> 💜 Compre-me um café</h3>
+☕ Pix: 3747fe92-08c6-44da-8137-86bb8a97338b
   
   
   ![Snake animation](https://github.com/zallih/zallih/blob/output/github-contribution-grid-snake.svg)
