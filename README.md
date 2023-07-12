@@ -40,6 +40,7 @@
     <img align="center" alt="zallih-Js" height="40" width="40" src="https://w7.pngwing.com/pngs/915/519/png-transparent-typescript-hd-logo-thumbnail.png">
     <img align="center" alt="zallih-JAVA" height="40" width="40" src="https://coal.gamemaker.io/sites/5d75794b3c84c70006700381/theme/images/og/thumbnail_gm_logo.png?1677843242">
     <img align="center" alt="zallih-JAVA" height="40" width="40" src="https://companieslogo.com/img/orig/U-ea48bc1d.png?t=1634728034">
+    <img align="center" alt="zallih-WP" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Wordpress_Blue_logo.png">
     </a>
 <br><br>
 <h3>💜 Redes Sociais</h3>
