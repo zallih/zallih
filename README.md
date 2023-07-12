@@ -9,7 +9,7 @@
 - 🎓 Estudando na <a href="https://cursos.dankicode.com/">Danki.Code</a> e na <a href="https://b7web.com.br/">B7Web</a>  
 </div>
 
-<br><br>
+<br>
 
 <div>
   <a href ="https://github.com/zallih">
