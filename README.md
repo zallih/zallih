@@ -1,7 +1,7 @@
 ## 💜 Oii, eu sou a Zallih
 
 <div>
-<img align="right" alt="zallih" width="135" src="https://cdn.discordapp.com/attachments/1109120423297294356/1115676832709234715/download20230602132208.png">
+<img align="right" alt="zallih" width="135" src="https://cdn.discordapp.com/attachments/1128416328215167096/1157425285344534678/download20230905181423.png?ex=65188fcb&is=65173e4b&hm=b0e8aa7c9f76c1b1754445d694f1c2605c8797b492674411d964d17f44d6ac5d&">
   
 - 💻 Me Chamo Laila Zappiello e tenho 16 anos <br>
 - 👩🏽‍💻 Atualmente estou estudando criação de jogos & Angular<br>
@@ -28,7 +28,7 @@
 
 
 <div>
-    <img align="right" alt="zallih" width="250" src="https://cdn.discordapp.com/attachments/1109120423297294356/1115676185888817182/octocat-1686068325751.png">
+    <img align="right" alt="zallih" width="250" src="https://cdn.discordapp.com/attachments/1128416328215167096/1157426294619918428/octocat-1696022322086.png?ex=651890bc&is=65173f3c&hm=704d106d8f2a80ba46275bb9c676a4c4cd46f9dde788d17a3a8c0fcacdeccb0b&">
   <h3> 💜 Skills</h3>
   <a href="https://github.com/zallih">
   <img align="center" alt="zallih-JAVA" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
