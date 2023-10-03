@@ -3,7 +3,7 @@
 <div>
 <img align="right" alt="zallih" width="135" src="https://cdn.discordapp.com/attachments/1128416328215167096/1157425285344534678/download20230905181423.png?ex=65188fcb&is=65173e4b&hm=b0e8aa7c9f76c1b1754445d694f1c2605c8797b492674411d964d17f44d6ac5d&">
   
-- 💻 Me Chamo Laila Zappiello e tenho 16 anos <br>
+- 💻 Me Chamo Laila Zappiello e tenho 17 anos <br>
 - 👩🏽‍💻 Atualmente estou estudando criação de jogos & Angular<br>
 - 📖 Estudanto na Etec Presidente Vargas cursando Eletrônica  
 - 🎓 Estudando na <a href="https://cursos.dankicode.com/">Danki.Code</a> e na <a href="https://b7web.com.br/">B7Web</a>  
