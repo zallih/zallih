@@ -1,7 +1,7 @@
 ## 💜 Oii, eu sou a Zallih
 
 <div>
-<img align="right" alt="zallih" width="135" src="https://cdn.discordapp.com/attachments/1128416328215167096/1157425285344534678/download20230905181423.png?ex=65188fcb&is=65173e4b&hm=b0e8aa7c9f76c1b1754445d694f1c2605c8797b492674411d964d17f44d6ac5d&">
+<img align="right" alt="zallih" width="135" src="https://cdn.discordapp.com/attachments/1128416328215167096/1157425285344534678/download20230905181423.png?ex=65eb7fcb&is=65d90acb&hm=fa8e5ecfad17ea5a07b2020e5360c14e4d9ade83c4488bcaf1adf0dd8b58a12f&">
   
 - 💻 Me Chamo Laila Zappiello e tenho 17 anos <br>
 - 👩🏽‍💻 Atualmente estou estudando criação de jogos & Angular<br>
@@ -14,21 +14,14 @@
 <div>
   <a href ="https://github.com/zallih">
     <p align="center">
-      <img height="150em" src="https://github-readme-stats.vercel.app/api?username=zallih&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
       <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zallih&layout=compact&langs_count=7&theme=tokyonight"/>
       <img height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=zallih&theme=tokyonight&date_format=j%20M%5B%20Y%5D"/>
      </p>
   </a>
 </div>
 
-
-<p align="middle">
-  <img width="185" alt="QuebraDeLinha" src="https://media.discordapp.net/attachments/783761333358166056/875852044928425984/divider-2461548_640.png">
-</p>
-
-
 <div>
-    <img align="right" alt="zallih" width="250" src="https://cdn.discordapp.com/attachments/1128416328215167096/1157426294619918428/octocat-1696022322086.png?ex=651890bc&is=65173f3c&hm=704d106d8f2a80ba46275bb9c676a4c4cd46f9dde788d17a3a8c0fcacdeccb0b&">
+    <img align="right" alt="zallih" width="250" src="https://cdn.discordapp.com/attachments/1128416328215167096/1157426294619918428/octocat-1696022322086.png?ex=65eb80bc&is=65d90bbc&hm=b83857b7109779a00ebd6efaca93ed0e1443f7431d229fd4692239daecdef55a&">
   <h3> 💜 Skills</h3>
   <a href="https://github.com/zallih">
   <img align="center" alt="zallih-JAVA" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
