@@ -1,7 +1,7 @@
 ## 💜 Oii, eu sou a Laila
 
 <div>
-<img align="right" alt="zallih" width="135" src="https://cdn.discordapp.com/attachments/1128416328215167096/1157425285344534678/download20230905181423.png?ex=65eb7fcb&is=65d90acb&hm=fa8e5ecfad17ea5a07b2020e5360c14e4d9ade83c4488bcaf1adf0dd8b58a12f&">
+<img align="right" alt="zallih" width="135" src="https://cdn.discordapp.com/attachments/1128416328215167096/1157425285344534678/download20230905181423.png?ex=66ebeb8b&is=66ea9a0b&hm=a125113e1e0e5b130bd98fce76dba8edd2c83f38bd40616fb777c1f5598aa788&">
   
 - 💻 Me Chamo Laila Zappiello e tenho 18 anos <br>
 - 👩🏽‍💻 Atualmente estou estudando criação de jogos & Angular<br>
@@ -21,7 +21,7 @@
 </div>
 
 <div>
-    <img align="right" alt="zallih" width="250" src="https://cdn.discordapp.com/attachments/1128416328215167096/1157426294619918428/octocat-1696022322086.png?ex=65eb80bc&is=65d90bbc&hm=b83857b7109779a00ebd6efaca93ed0e1443f7431d229fd4692239daecdef55a&">
+    <img align="right" alt="zallih" width="250" src="https://cdn.discordapp.com/attachments/1128416328215167096/1157426294619918428/octocat-1696022322086.png?ex=66ebec7c&is=66ea9afc&hm=6d17cd6d605a1e5dd1c9c0ff2a0e126d956b337a023e0fd8912b040173f43734&">
   <h3> 💜 Skills</h3>
   <a href="https://github.com/zallih">
   <img align="center" alt="zallih-JAVA" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
@@ -36,6 +36,8 @@
     <img align="center" alt="zallih-WP" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Wordpress_Blue_logo.png">
     </a>
 <br><br>
+  
+━━━━━━ • ✿ • ━━━━━━
 <h3>💜 Redes Sociais</h3>
   <a href="https://www.instagram.com/zzappiello.o/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="blank"></a>
   <a href="https://www.facebook.com/profile.php?id=61564034984215" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="blank"></a> 
