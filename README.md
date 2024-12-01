@@ -1,7 +1,7 @@
 ## 💜 Oii, eu sou a Laila
 
 <div>
-<img align="right" alt="zallih" width="135" src="https://cdn.discordapp.com/attachments/1128416328215167096/1157425285344534678/download20230905181423.png?ex=66ebeb8b&is=66ea9a0b&hm=a125113e1e0e5b130bd98fce76dba8edd2c83f38bd40616fb777c1f5598aa788&">
+<img align="right" alt="zallih" width="135" src="https://cdn.discordapp.com/attachments/1128416328215167096/1157425285344534678/download20230905181423.png?ex=674d7a8b&is=674c290b&hm=efea92c80b97d9daeaa3905352710cc317dc6c992093e82de2173011c8f75868&">
   
 - 💻 Me Chamo Laila Zappiello e tenho 18 anos <br>
 - 👩🏽‍💻 Atualmente estou estudando criação de jogos & Angular<br>
@@ -21,7 +21,7 @@
 </div>
 
 <div>
-    <img align="right" alt="zallih" width="250" src="https://cdn.discordapp.com/attachments/1128416328215167096/1157426294619918428/octocat-1696022322086.png?ex=66ebec7c&is=66ea9afc&hm=6d17cd6d605a1e5dd1c9c0ff2a0e126d956b337a023e0fd8912b040173f43734&">
+    <img align="right" alt="zallih" width="250" src="https://cdn.discordapp.com/attachments/1128416328215167096/1157426294619918428/octocat-1696022322086.png?ex=674d7b7c&is=674c29fc&hm=acdf36605e75d9f5ccd0c9a4cb1e626ab0929a21658e2e2ba76be3d1742daa34&">
   <h3> 💜 Skills</h3>
   <a href="https://github.com/zallih">
   <img align="center" alt="zallih-JAVA" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
