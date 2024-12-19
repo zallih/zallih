@@ -15,7 +15,7 @@
   <a href ="https://github.com/zallih">
     <p align="center">
       <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zallih&layout=compact&langs_count=7&theme=tokyonight"/>
-      <img height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=zallih&theme=tokyonight&date_format=j%20M%5B%20Y%5D"/>
+      <img height="150em" src="https://github-readme-stats.vercel.app/api?username=zallih&show_icons=true&theme=tokyonight"/>
      </p>
   </a>
 </div>
