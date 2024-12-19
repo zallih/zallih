@@ -5,8 +5,8 @@
   
 - 💻 Me Chamo Laila Zappiello e tenho 18 anos <br>
 - 👩🏽‍💻 Atualmente estou estudando criação de jogos & Angular<br>
-- 📖 Estudanto na Etec Presidente Vargas cursando Eletrônica  
-- 🎓 Estudando na <a href="https://cursos.dankicode.com/">Danki.Code</a> e na <a href="https://b7web.com.br/">B7Web</a>  
+- 📖 Formada na Etec Presidente Vargas no curso de Eletrônica  
+
 </div>
 
 <br><br>
