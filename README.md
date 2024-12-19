@@ -21,7 +21,7 @@
 </div>
 
 <div>
-    <img align="right" alt="zallih" width="250" src="https://cdn.discordapp.com/attachments/1128416328215167096/1157426294619918428/octocat-1696022322086.png?ex=674d7b7c&is=674c29fc&hm=acdf36605e75d9f5ccd0c9a4cb1e626ab0929a21658e2e2ba76be3d1742daa34&">
+    
   <h3> 💜 Skills</h3>
   <a href="https://github.com/zallih">
   <img align="center" alt="zallih-JAVA" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
