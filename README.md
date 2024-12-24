@@ -4,7 +4,7 @@
 <img align="right" alt="zallih" width="135" src="https://cdn.discordapp.com/attachments/1128416328215167096/1157425285344534678/download20230905181423.png?ex=674d7a8b&is=674c290b&hm=efea92c80b97d9daeaa3905352710cc317dc6c992093e82de2173011c8f75868&">
   
 - 💻 Me Chamo Laila Zappiello e tenho 18 anos <br>
-- 👩🏽‍💻 Atualmente estou estudando criação de jogos & Angular<br>
+- 👩🏽‍💻 Atualmente estou estudando criação de jogos & Front-end<br>
 - 📖 Formada em Eletrônica na Etec Presidente Vargas   
 
 </div>
