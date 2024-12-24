@@ -6,7 +6,7 @@
 - 💻 Me Chamo Laila Zappiello e tenho 18 anos <br>
 - 👩🏽‍💻 Atualmente estou estudando criação de jogos & Front-end<br>
 - 📖 Formada em Eletrônica na Etec Presidente Vargas   
-
+- 🎮 Cursando Jogos Digitais na <a href= "https://portal.fmu.br/">FMU</a>
 </div>
 
 <br><br>
