@@ -40,7 +40,6 @@
 ━━━━━━ • ✿ • ━━━━━━
 <h3>💜 Redes Sociais</h3>
   <a href="https://www.instagram.com/zzappiello.o/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="blank"></a>
-  <a href="https://www.facebook.com/profile.php?id=61564034984215" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="blank"></a> 
   <a href="https://www.linkedin.com/in/laila-zappiello/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <br><br>
   
