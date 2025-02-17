@@ -1,7 +1,7 @@
 ## 💜 Oii, eu sou a Laila
 
 <div>
-<img align="right" alt="zallih" width="135" src="https://cdn.discordapp.com/attachments/1128416328215167096/1321231581771468862/download20241200235357.png?ex=67ab1b8c&is=67a9ca0c&hm=6a0e16b8dd2384dbe86aff265e88599c7e2c89b7312cff075ac2d91beda36f80&">
+<img align="right" alt="zallih" width="150" src="https://cdn.discordapp.com/attachments/1128416328215167096/1321231581771468862/download20241200235357.png?ex=67a08f8c&is=679f3e0c&hm=d695ef3faff4a5d109ae6689e871a260d6a40237fb3f2cb655b1b5970cfa7d10&">
   
 - 💻 Me Chamo Laila Zappiello e tenho 18 anos <br>
 - 👩🏽‍💻 Atualmente estou estudando criação de jogos & Front-end<br>
