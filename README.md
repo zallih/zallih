@@ -43,10 +43,6 @@
   <a href="https://www.linkedin.com/in/laila-zappiello/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <br><br>
 
-   <h3>💜 Total de visitas no meu perfil </h3>
-   <p align="left"> 
-     <img alingn="left" width="150" height="35" src="https://profile-counter.glitch.me/zallih/count.svg" />
-   </p>
 
   
   ![Snake animation](https://github.com/zallih/zallih/blob/output/github-contribution-grid-snake.svg)
